@@ -2,14 +2,14 @@
  2021 11/5 61315 GAMELAB CHEER-UP 게임잼(모자파는게임)
  
  ## 게임 방식 
-게임 시작 시엔 모든 타일이 파란색이며, 시간이 지나면서 타일들이 세로줄마다 다른 속도로 붉어지고, 가로줄마다 다른 속도로 어두워집니다.
+게임 시작 시엔 모든 타일이 파란색이며, 시간이 지나면서 타일들이 세로줄마다 다른 속도로 붉어지고, 가로줄마다 다른 속도로 어두워집니다.<br>
 <img width="674" alt="image" src="https://user-images.githubusercontent.com/60357053/160280544-532b9f44-5848-43b9-896d-cee6eb6e71c8.png">
 
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/60357053/160280550-363f02f5-cc8b-4aae-a656-45743537d61c.png">
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/60357053/160280564-aa8f004c-e096-4ece-8d9d-ac0a273d8e3a.png">
 
 플레이어는 가장 빨리 빨갛게 되고 가장 늦게 어둡게 꺼지는 타일을 예측해서 골라야 합니다. 최대한 빨리요! <br>
-타일을 선택하면, 선택한 타일에 해당하는 상품을 팔게 됩니다. 
+타일을 선택하면, 선택한 타일에 해당하는 상품을 팔게 됩니다. <br>
 
 <img width="433" alt="image" src="https://user-images.githubusercontent.com/60357053/160280628-df44f152-382a-4d73-a140-a390b9217cc9.png">
 
